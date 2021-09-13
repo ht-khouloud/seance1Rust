@@ -1,0 +1,10 @@
+[package]
+name = "seance1"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+"seanceModuleLib" = { path = "../seanceModuleLib" , version= "0.1.0" }
+"variablelib" = { path = "../variablelib" , version= "0.1.0" }

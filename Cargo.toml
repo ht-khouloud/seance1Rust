@@ -1,0 +1,6 @@
+[workspace]
+members = [
+  "seance1",
+    "seanceModuleLib",
+   "variablelib",
+]
